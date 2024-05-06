@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.p{
+    height: 1000px;
+    width: 250px;
+    border: 2px solid;
+    background-image: url("images.jpeg");
+    /* background-attachment: scroll; */
+
+}
+.k{
+    height: 200px;
+    width: 190px;
+    border: 2px solid  yellowgreen;
+    color: white;
+    margin-top: 180px;
+    margin-left: 30px;
+}

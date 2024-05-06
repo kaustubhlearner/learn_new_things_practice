@@ -1,0 +1,77 @@
+/* /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#k{
+    background-color: red;
+    color: white;
+}
+.p{
+    text-align: center;
+    color: aqua;
+}
+#k,.p{
+color: green;
+}
+h1{
+    color: yellow;
+}
+.p:hover{
+    color: #a81515;
+}
+.r{
+    font-weight:normal;
+    font-size: xx-large
+} */
+/* .J{
+    text-align: center;
+    text-transform: capitalize;
+} */
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+ } */
+ /* #outer{
+    font-size: 25px;
+ }
+ #inner{
+    font-size: 10px;
+    height: 15px;
+    background-color: red;
+    width: 100px;
+    border: 1px;
+    border-style: solid;
+ } */
+
+ /* .o{
+    font-size: xx-large;
+    text-align: center;
+    color: brown;
+    background-color: blueviolet;
+    width: 150px;
+    border: 3'
+    px dotted yellow;
+    
+ } */
+
+ /* .container{
+    height: 40%;
+    width: 50%;
+    background-color: red;
+    padding: 40px;
+    border-radius: 10px;
+ }
+ .box{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    /* margin: 40px; */
+    /* margin-left: 200px;
+ } */
+ .box1{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    margin: 50px;
+    border-radius: 10px;
+ } */ */

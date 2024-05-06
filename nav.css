@@ -1,0 +1,29 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: xx-small;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
+#k{
+    height: 20px;
+    width: 524.7px;
+    background-color: black;
+    border: solid rgb(207, 221, 11);
+}
+a {
+    margin-left: 30px;
+}
+button {
+    color: black    ;
+    margin-left: 10px;
+}
+input {
+    margin-left: 30px;
+} 
+
+
+     
