@@ -1,1 +1,2 @@
-# learn_new_things_practice
+
+# learn html and css in my beginner journey
